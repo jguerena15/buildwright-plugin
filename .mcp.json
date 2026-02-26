@@ -13,8 +13,8 @@
       "url": "http://127.0.0.1:3845/mcp"
     },
     "clickup": {
-      "type": "http",
-      "url": "https://mcp.clickup.com/mcp"
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.clickup.com/mcp"]
     }
   }
 }
