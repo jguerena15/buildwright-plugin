@@ -1,7 +1,7 @@
 ---
 name: kickoff
 description: "Start work from a ClickUp task URL. Reads the task, extracts requirements and links, then decides whether to generate a PRD + Ralph loop or handle it directly. Triggers on: clickup url, start this task, kickoff, CU task link."
-user-invocable: true
+user-invokable: true
 ---
 
 # Kickoff from ClickUp
