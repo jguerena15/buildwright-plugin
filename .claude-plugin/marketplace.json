@@ -1,0 +1,32 @@
+{
+  "name": "buildwright",
+  "owner": {
+    "name": "Jacob Guerena",
+    "email": "jguerena15@gmail.com"
+  },
+  "metadata": {
+    "description": "Plugins for building Next.js + Tailwind apps from Figma designs with autonomous iteration"
+  },
+  "plugins": [
+    {
+      "name": "buildwright-plugin",
+      "source": ".",
+      "description": "Development assistant for Next.js + Tailwind apps backed by Figma designs and shadcn/ui, with iterative UI development powered by Playwright.",
+      "version": "0.0.1",
+      "author": {
+        "name": "Jacob Guerena",
+        "email": "jguerena15@gmail.com"
+      },
+      "license": "MIT",
+      "keywords": [
+        "nextjs",
+        "tailwind",
+        "figma",
+        "playwright",
+        "shadcn",
+        "ralph",
+        "prd"
+      ]
+    }
+  ]
+}
