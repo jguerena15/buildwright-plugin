@@ -12,7 +12,7 @@
       "name": "buildwright-plugin",
       "source": "./",
       "description": "Development assistant for Next.js + Tailwind apps backed by Figma designs and shadcn/ui, with iterative UI development powered by Playwright.",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "author": {
         "name": "Jacob Guerena",
         "email": "jguerena15@gmail.com"
