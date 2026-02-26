@@ -57,10 +57,11 @@ Bundles a TypeScript Language Server configuration so Claude gets real-time diag
 
 ## Installation
 
-### From a marketplace
+### From the marketplace
 
 ```bash
-claude plugin install buildwright-plugin@<marketplace-name>
+/plugin marketplace add jguerena15/buildwright-plugin
+/plugin install buildwright-plugin@buildwright
 ```
 
 ### Local development
